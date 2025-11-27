@@ -1,3 +1,4 @@
 # sparkle_demo
-This is my first Git Repository
-Author- Jyothi S
+This is my first Git Repository.
+<br>
+Author- Jyothi S.
